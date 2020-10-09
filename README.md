@@ -1,6 +1,10 @@
 # babel-plugin-function-log
 
-insert console.log to the top of body in function
+Insert console.log to the top of body in function.
+
+This repo is not recommended.
+
+Please view the better tools, [funlog](https://www.npmjs.com/package/@freddyzeng/funlog)
 
 ## Example
 

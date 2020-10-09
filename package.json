@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-function-log",
-  "version": "3.2.3",
+  "version": "3.2.5",
   "description": "insert console.log to the top of body in function",
   "repository": "freddyzeng/babel-plugin-function-log",
   "author": "freddyzeng <freddyzeng008@gmail.com>",
